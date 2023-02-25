@@ -12,9 +12,7 @@ import bs4
 
 
 
-#api_key = 'BR32A7TJWPYSM2WPMJT945QFT'
-api_key = 'RFL6U9LVLWTVSQDP2MPLUSXQ9'
-#api_key ='84PD9E38NYQBB4TWYVZWUGFD2'
+api_key ='Add Your Api Key' 
 
 @login_manager.user_loader
 def user_loader(email):
